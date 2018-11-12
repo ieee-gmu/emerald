@@ -1,11 +1,11 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: GMU IEEE | George Mason University Institute of Electrical and Electronics Engineers
+description: "Our vision is to advance GMU engineering to the forefronts of technological innovation through applied research and networking"
+url: "ieee-gmu.github.io"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "GMU IEEE"
+  email: "ieee.gmu@gmail.com"
+  url: "https://getconnected.gmu.edu/organization/inst-of-electrical-and-electronics-engineers"
 
 # Build settings
 baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
